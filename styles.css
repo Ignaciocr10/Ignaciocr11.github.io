@@ -21,6 +21,12 @@ body {
     width: 299.99px;
     height: 299.99px;
 }
+.title {
+    text-align: center;
+}
+.aleatory-text {
+    text-align: justify;
+}
 
 /* .notebook {
     background-color: rgb(194, 28, 28);
